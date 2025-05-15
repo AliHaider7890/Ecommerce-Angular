@@ -1,33 +1,27 @@
-# Ecommerce-Angular
-A fully responsive Angular-based e-commerce app featuring product listing, Angular Material UI components, form handling, routing, search functionality, and dynamic sorting. Designed for modern UI/UX using Angular 17.
+# Ecommerce
 
-## ✨ Features
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.17.
 
-- 🧭 **Routing** – Navigate between pages seamlessly  
-- 📝 **Reactive Forms** – Add and manage product input  
-- 🔍 **Search Functionality** – Filter products as you type  
-- ↕️ **Sorting** – Sort products by price (Low to High, High to Low)  
-- 🎨 **Material UI** – Clean and responsive design using Angular Material
+## Development server
 
-## 📦 Tech Stack
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-- Angular 17  
-- Angular Material  
-- TypeScript  
-- HTML & CSS  
-- Reactive Forms  
-- Mock Data (JSON or mock API)
+## Code scaffolding
 
-## 📸 Screenshots
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-![111111](https://github.com/user-attachments/assets/b9a0e267-c404-44f3-9831-6ae372e891e5)
+## Build
 
-![2222222222](https://github.com/user-attachments/assets/5d002493-073a-46c7-8cc1-a7ef0702fedf)
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
+## Running unit tests
 
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## 📁 Project Setup
+## Running end-to-end tests
 
-```bash
-npm install
-ng serve
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
