@@ -1,27 +1,33 @@
-# Ecommerce
+# 🛒 E-Commerce Pro (Angular)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.17.
+A lightweight e-commerce web application built using **Angular 17** and **Angular Material**. This app includes core features such as:
 
-## Development server
+## ✨ Features
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- 🧭 **Routing** – Navigate between pages seamlessly  
+- 📝 **Reactive Forms** – Add and manage product input  
+- 🔍 **Search Functionality** – Filter products as you type  
+- ↕️ **Sorting** – Sort products by price (Low to High, High to Low)  
+- 🎨 **Material UI** – Clean and responsive design using Angular Material
 
-## Code scaffolding
+## 📦 Tech Stack
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Angular 17  
+- Angular Material  
+- TypeScript  
+- HTML & CSS  
+- Reactive Forms  
+- Mock Data (JSON or mock API)
 
-## Build
+## 📸 Screenshots
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+![111111](https://github.com/user-attachments/assets/fc51f320-47bc-476e-8b55-491834a6e915)
 
-## Running unit tests
+![2222222222](https://github.com/user-attachments/assets/77d18aae-2cc7-422a-be90-7197d0156d91)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+## 📁 Project Setup
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+```bash
+npm install
+ng serve
